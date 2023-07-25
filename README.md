@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubhamk09
-- 👀 I’m interested in Data Science and Java development
-- 🌱 I’m currently learning flask
-- 💞️ I’m looking to collaborate on Flask project
+- 👀 I’m Working on LDRA Unit testing for the C++ codebase
+- 🌱 I have Python knowledge
+- 💞️ I’m looking for C++ projects
 - 📫 How to reach me shubhamkalihari09@gmail.com
 
 <!---
