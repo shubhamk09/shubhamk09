@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubhamk09
-- 👀 I’m Working on LDRA Unit testing for the C++ codebase
+- 👀 I’m Working C++ codebase
 - 🌱 I have Python knowledge
 - 💞️ I’m looking for C++ projects
 - 📫 How to reach me shubhamkalihari09@gmail.com
